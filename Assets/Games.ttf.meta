@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f98680c28ad74ec89fbb6d2a721d720
+timeCreated: 1510647030
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Games
+  fontNames:
+  - Games
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94510ef557084478389cf575407cff85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
